@@ -1,0 +1,13 @@
+# 本机配置（含按键计数、窗口位置），不参与版本管理
+桌面键盘.config.txt
+debug.log
+
+# 开发用的临时测试工具
+src/tools/
+tools/sd/candidates/
+
+# 编译/IDE 产物
+bin/
+obj/
+.vs/
+*.user
